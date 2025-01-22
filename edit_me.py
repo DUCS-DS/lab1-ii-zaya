@@ -4,6 +4,7 @@ def find_max(lst):
 
     current_max = lst[0]
 
+    print('asdfasdf')
     #
     #  YOUR CODE GOES HERE
     #
